@@ -10,3 +10,4 @@ Object.prototype.getKeys = function () {
   }
   return a;
 }
+student.getKeys();
